@@ -1,0 +1,1 @@
+web: gunicorn Crop_Prediction_Model (2).wsgi --log-file -
